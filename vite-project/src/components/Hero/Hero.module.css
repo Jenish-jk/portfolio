@@ -13,8 +13,8 @@
     margin-top: 49px;
     z-index: 1;
     width:95%;
-   
     overflow: hidden;
+    
 }
 
 .content{
@@ -23,6 +23,7 @@
     align-items: flex-start;
     color: var(--color-text);
     z-index: 1;
+    margin-left: 40px;
 }
 
 .title{
